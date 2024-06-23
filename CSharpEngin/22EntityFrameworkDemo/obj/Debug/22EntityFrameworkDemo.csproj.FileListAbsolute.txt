@@ -1,0 +1,13 @@
+D:\btk\CSharpEngin\CSharpEngin\22EntityFrameworkDemo\bin\Debug\22EntityFrameworkDemo.exe.config
+D:\btk\CSharpEngin\CSharpEngin\22EntityFrameworkDemo\bin\Debug\22EntityFrameworkDemo.exe
+D:\btk\CSharpEngin\CSharpEngin\22EntityFrameworkDemo\bin\Debug\22EntityFrameworkDemo.pdb
+D:\btk\CSharpEngin\CSharpEngin\22EntityFrameworkDemo\obj\Debug\22EntityFrameworkDemo.csproj.AssemblyReference.cache
+D:\btk\CSharpEngin\CSharpEngin\22EntityFrameworkDemo\obj\Debug\_22EntityFrameworkDemo.Form1.resources
+D:\btk\CSharpEngin\CSharpEngin\22EntityFrameworkDemo\obj\Debug\_22EntityFrameworkDemo.Properties.Resources.resources
+D:\btk\CSharpEngin\CSharpEngin\22EntityFrameworkDemo\obj\Debug\22EntityFrameworkDemo.csproj.GenerateResource.cache
+D:\btk\CSharpEngin\CSharpEngin\22EntityFrameworkDemo\obj\Debug\22EntityFrameworkDemo.csproj.CoreCompileInputs.cache
+D:\btk\CSharpEngin\CSharpEngin\22EntityFrameworkDemo\obj\Debug\22EntityFrameworkDemo.exe
+D:\btk\CSharpEngin\CSharpEngin\22EntityFrameworkDemo\obj\Debug\22EntityFrameworkDemo.pdb
+D:\btk\CSharpEngin\CSharpEngin\22EntityFrameworkDemo\bin\Debug\EntityFramework.dll
+D:\btk\CSharpEngin\CSharpEngin\22EntityFrameworkDemo\bin\Debug\EntityFramework.xml
+D:\btk\CSharpEngin\CSharpEngin\22EntityFrameworkDemo\obj\Debug\22EntityFrameworkDemo.csproj.CopyComplete

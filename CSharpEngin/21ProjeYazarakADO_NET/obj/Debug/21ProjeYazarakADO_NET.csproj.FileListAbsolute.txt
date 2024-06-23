@@ -1,0 +1,10 @@
+D:\btk\CSharpEngin\CSharpEngin\21ProjeYazarakADO_NET\bin\Debug\21ProjeYazarakADO_NET.exe.config
+D:\btk\CSharpEngin\CSharpEngin\21ProjeYazarakADO_NET\bin\Debug\21ProjeYazarakADO_NET.exe
+D:\btk\CSharpEngin\CSharpEngin\21ProjeYazarakADO_NET\bin\Debug\21ProjeYazarakADO_NET.pdb
+D:\btk\CSharpEngin\CSharpEngin\21ProjeYazarakADO_NET\obj\Debug\21ProjeYazarakADO_NET.csproj.AssemblyReference.cache
+D:\btk\CSharpEngin\CSharpEngin\21ProjeYazarakADO_NET\obj\Debug\_21ProjeYazarakADO_NET.Form1.resources
+D:\btk\CSharpEngin\CSharpEngin\21ProjeYazarakADO_NET\obj\Debug\_21ProjeYazarakADO_NET.Properties.Resources.resources
+D:\btk\CSharpEngin\CSharpEngin\21ProjeYazarakADO_NET\obj\Debug\21ProjeYazarakADO_NET.csproj.GenerateResource.cache
+D:\btk\CSharpEngin\CSharpEngin\21ProjeYazarakADO_NET\obj\Debug\21ProjeYazarakADO_NET.csproj.CoreCompileInputs.cache
+D:\btk\CSharpEngin\CSharpEngin\21ProjeYazarakADO_NET\obj\Debug\21ProjeYazarakADO_NET.exe
+D:\btk\CSharpEngin\CSharpEngin\21ProjeYazarakADO_NET\obj\Debug\21ProjeYazarakADO_NET.pdb
