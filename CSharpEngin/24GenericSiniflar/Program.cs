@@ -38,13 +38,21 @@ namespace _24GenericSiniflar
         }
 
     }
-    class Product
+    class Product : IEntity
     {
 
     }
-    class Customer
+    class Customer : IEntity
     {
         public string firstName { get; set; }
+    }
+    class Student:IEntity
+    {
+
+    }
+    interface IEntity
+    {
+
     }
     interface IProductDal:IRepository<Product>
     {
@@ -55,7 +63,11 @@ namespace _24GenericSiniflar
     {
         void ABC();
     }
-    interface IRepository<T>
+    interface ISudentDal : IRepository<Student>
+    {
+
+    }
+    interface IRepository<T> where T:class, IEntity, new()
     {
         List<T> GetAll();
         T Get(int id);
