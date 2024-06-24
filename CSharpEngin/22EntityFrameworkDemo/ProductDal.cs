@@ -16,6 +16,38 @@ namespace _22EntityFrameworkDemo
             }
 
         }
+
+        public List<Product> GetByName(string key)
+        {
+            using (ETrade_BtkContext context=new ETrade_BtkContext())
+            {
+                return context.Products.Where(p => p.Name.Contains(key)).ToList();
+            }
+        }
+        public List<Product> GetByUnitPrice(decimal price)
+        {
+            using (ETrade_BtkContext context = new ETrade_BtkContext())
+            {
+                var result = context.Products.Where(p => p.UnitPrice >= price).ToList();
+                return result;
+            }
+        }
+        public List<Product> GetByUnitPrice(decimal min, decimal max)
+        {
+            using (ETrade_BtkContext context = new ETrade_BtkContext())
+            {
+                var result = context.Products.Where(p => p.UnitPrice >= min && p.UnitPrice <= max).ToList();
+                return result;
+            }
+        }
+        public Product GetById(int id)
+        {
+            using (ETrade_BtkContext context=new ETrade_BtkContext())
+            {
+                var result = context.Products.SingleOrDefault(p => p.Id == id);
+                return result;
+            }
+        }
         public void Add(Product product)
         {
             using (ETrade_BtkContext context = new ETrade_BtkContext())

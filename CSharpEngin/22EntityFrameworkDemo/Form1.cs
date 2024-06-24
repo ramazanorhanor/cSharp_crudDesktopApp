@@ -67,5 +67,16 @@ namespace _22EntityFrameworkDemo
             LoadProducts();
             MessageBox.Show("silindi ");
         }
+        private void SearchProducts(string key)
+        {
+           // var result = _productDal.GetAll().Where(p => p.Name.ToLower().Contains(key.ToLower())).ToList();
+            var result = _productDal.GetByName(key);
+            dgwProducts.DataSource = result;
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            SearchProducts(txtSearch.Text);
+        }
     }
 }
